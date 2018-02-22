@@ -21,6 +21,7 @@ RUN yum -y install \
     ncurses-devel  \
     patch \
     readline-devel  \
+    rpmdevtools \
     snappy-devel \
     sqlite-devel \
     tar \
